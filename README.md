@@ -1,4 +1,4 @@
-# Java Annotation Mapper #
+# Java Annotation Mapper [![Build Status](https://travis-ci.org/brenooliveira/annotationmapper.png)](https://travis-ci.org/brenooliveira/annotationmapper.png)#
 
 Java annotation mapper is a lib to convert an object into another object using java annotations.
 
