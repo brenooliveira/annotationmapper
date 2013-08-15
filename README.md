@@ -1,9 +1,11 @@
-Java Annotation Mapper
+# Java Annotation Mapper #
 
 Java annotation mapper is a lib to convert an object into another object using java annotations.
 
-Exemple:
+### Exemple: ###
+
 Convert class Person into Human
+
 person.java
 ~~~java
 public class Person {
